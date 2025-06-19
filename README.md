@@ -7,12 +7,21 @@
 - 💻 Desenvolvedor 
 - 👨🏽‍🦱 Pronouns: ele/dele he/him
 
+## 💻 Technologies & Languages
 
+- .NET
+- Maui
+- Vb
+- Python
+- C,c#
+- Node
+- Git
+- Sql Server, MySql
+- 
 ##
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WeslleySantos-Dev&show_icons=true&theme=radical)
-<div align="center">
+  <div align="center">
   <a href="https://github.com/WeslleySantos-Dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WeslleySantos-Dev&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WeslleySantos-dev&show_icons=true&theme=radicak&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleySantos-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
@@ -32,12 +41,14 @@
 
 </div>
   
-  ##
+## 💡 Passionate About
+
+- Computer Science
+- Hardware Engineering
+- Exact Sciences
 
 
- 
 <div> 
  	<a href = "mailto:weslleysantosdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weslleysantosdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
