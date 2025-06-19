@@ -33,7 +33,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleySantos-dev&layout=compact&langs_count=7&theme=dark" />
 </div>
    
-### Interesses
+## Interesses
 - Computer Science
 - Hardware Engineering
 - Exact Sciences
