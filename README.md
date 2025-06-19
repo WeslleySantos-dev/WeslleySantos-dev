@@ -1,9 +1,11 @@
 ### Olá! eu sou Weslley 👋
 <img height="250" width="850" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"/>
+
 - 🔭 Bacharel Sistema de Informação
 - 🌱 Dev
 - 💻 Desenvolvedor
 - 👨🏽‍🦱 Pronouns: ele/dele he/him
+  
 <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
   <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/weslleysantos-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
 </a>
