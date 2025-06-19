@@ -5,16 +5,17 @@
 - 🌱 Dev
 - 💻 Desenvolvedor
 - 👨🏽‍🦱 Pronouns: ele/dele he/him
+<div align=center style="display: inline_block"><br>
+  <a href="https://github.com/WeslleySantos-dev?tab=repositories&sort=stargazers">
+    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/weslleysantos-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
+  </a>
+  <a href="https://github.com/WeslleySantos-dev?tab=followers">
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/weslleysantos-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+  </a>
+</div>
   
-<a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-  <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/weslleysantos-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
-</a>
-<a href="https://github.com/Larissakich?tab=followers">
-  <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/weslleysantos-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-</a>
-
-## My programming languages:
-<div align="Left">
+<div align=center style="display: inline_block"><br>
+  <p>My programming languages:</p>
       <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
       <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
       <img align="center" alt="MAUI" height="30" width="40" src="Resources/img/maui-logo.svg">
