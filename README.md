@@ -1,10 +1,16 @@
-### Olá! eu sou Weslley dos Santos | Hi! I'm Weslley dos Santos 👋
-<img height="250" width="850" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"/>
+# 🧑🏽‍💻 Weslley dos Santos
+**`Desenvolvedor FullStack`**
 
-- 🔭 Bacharel Sistema de Informação
-- 💻 Desenvolvedor
-- 👨🏽‍🦱 Pronouns: ele/dele he/him
--🎯 Procurando por Jobs | Looking for jobs
+<img height="250" width="850" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"/>
+Me chamo Weslley dos Santos, tenho 22 anos e sou natural de São Paulo. Conclui o ensino médio na ETEASD. Atualmente, estou cursando Sistemas de Informação na Faculdade Descomplica. Sou apaixonado por tecnologia e gosto de compartilhar meu conhecimento e adquirir novos saberes com as pessoas que convivo.
+<strong>Toda comunicação é bem vinda!</strong>
+
+<p></p>
+
+-📖 Bacharel Sistema de Informação <br>
+-💻 Desenvolvedor <br>
+-👨🏽‍🦱 Pronouns: ele/dele he/him <br>
+-🎯 Procurando por Jobs  <br>
 
 E-mail: weslleysantosdev@gmail.com
 
