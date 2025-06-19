@@ -1,12 +1,22 @@
 ### Olá! eu sou Weslley 👋
-
-<img height="250" width="850" src="https://user-images.githubusercontent.com/73807228/153535920-9961208e-36e3-452f-aaef-12db2987544b.gif">
-
 - 🔭 Bacharel Sistema de Informação 
 - 🌱 Dev
 - 💻 Desenvolvedor 
 - 👨🏽‍🦱 Pronouns: ele/dele he/him
-
+<a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/weslleysantos-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/weslleysantos-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 ## 💻 Technologies & Languages
 
 - .NET
