@@ -47,6 +47,6 @@
 ## Contato
 <div>
  
-  <img src="https://raw.githubusercontent.com/weslleysantosdev/weslleysantosdev/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/weslleysantos-dev/weslleysantos-dev/output/snake.svg" alt="Snake animation" />
  
 </div>
