@@ -4,7 +4,9 @@
 - 🔭 Bacharel Sistema de Informação
 - 💻 Desenvolvedor
 - 👨🏽‍🦱 Pronouns: ele/dele he/him
+-🎯 Procurando por Jobs | Looking for jobs
 
+E-mail: weslleysantosdev@gmail.com
 
 ## 🛠️ Complete Tech Stack</h3>
 
