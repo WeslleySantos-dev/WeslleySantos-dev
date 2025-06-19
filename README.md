@@ -1,5 +1,5 @@
 ### Olá! eu sou Weslley 👋
-<div class="tenor-gif-embed" data-postid="20682795" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/apartamento-qualquer-banner-banner-gif-20682795">Apartamento Qualquer Banner GIF</a>from <a href="https://tenor.com/search/apartamento+qualquer+banner-gifs">Apartamento Qualquer Banner GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img height="250" width="850" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"/>
 - 🔭 Bacharel Sistema de Informação
 - 🌱 Dev
 - 💻 Desenvolvedor
