@@ -10,7 +10,7 @@
   <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/weslleysantos-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
 </a>
 
-
+<div align="center">
 <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img align="center" alt="MAUI" height="30" width="40" src="Resources/img/maui-logo.svg">
@@ -22,6 +22,8 @@
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
 
 ##
 <div align="center">
