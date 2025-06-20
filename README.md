@@ -1,10 +1,10 @@
 # 🧑🏽‍💻 Weslley dos Santos
 **`Desenvolvedor FullStack`**
 
-<img height="250" width="850" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"/>
-Me chamo Weslley dos Santos, tenho 22 anos e sou natural de São Paulo. Conclui o ensino médio na ETEASD. Atualmente, estou cursando Sistemas de Informação na Faculdade Descomplica. Sou apaixonado por tecnologia e gosto de compartilhar meu conhecimento e adquirir novos saberes com as pessoas que convivo.
-<strong>Toda comunicação é bem vinda!</strong>
+<h3>Hi, I'm Weslley</h3> 
 
+
+<img height="250" width="850" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"/>
 <p></p>
 
 -📖 Bacharel Sistema de Informação <br>
@@ -87,9 +87,17 @@ E-mail: weslleysantosdev@gmail.com
   <a href="mailto:weslleysantosdev@gmail.com" title="Gmail"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/weslleysantosdev/" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/WeslleySantos-dev" target="_blank" title="Github"><img alt="GITHUB-logo" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
-  
-<div>
- 
   <img src="https://raw.githubusercontent.com/weslleysantos-dev/weslleysantos-dev/output/snake.svg" alt="Snake animation" />
- 
+  
 </div>
+
+
+
+<div align=center>
+	<strong>About Me 🍃</strong>
+<hr>
+<strong>
+	Just someone who wants to leave the world a better place than when I found it. 
+</strong>
+</div>  
+ 
